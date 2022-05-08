@@ -1,0 +1,54 @@
+Microsoft Windows [Version 10.0.19044.1682]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Windows 10>netsh wlan show profiles
+
+Profiles on interface Wi-Fi:
+
+Group policy profiles (read only)
+---------------------------------
+    <None>
+
+User profiles
+-------------
+    All User Profile     : Manmay's Galaxy Tab S6 Lite
+    All User Profile     : HACKER @ GITHUB 4G
+    All User Profile     : NIC2G
+    All User Profile     : Manmay Chakraborty
+    All User Profile     : Computer Zone
+    All User Profile     : OPPO A3s
+    All User Profile     : Home WiFi
+    All User Profile     : 123456789
+    All User Profile     : realme 3
+    All User Profile     : OPPO K1
+    All User Profile     : Global IT
+
+
+C:\Users\Windows 10>netsh wlan show profile name="NIC2G" key=clear | find "Key Content"
+    Key Content            : cyryx2021
+
+C:\Users\Windows 10>netsh wlan show profile name="Home Wifi" key=clear | find "Key Content"
+    Key Content            : aru@9734
+
+C:\Users\Windows 10>netsh wlan show profile name="HACKER @ GITHUB 4G" key=clear | find "Key Content"
+    Key Content            : 2%0*2)0$
+
+C:\Users\Windows 10>netsh wlan show profile name="Manmay Chakraborty" key=clear | find "Key Content"
+    Key Content            : 2%0*2)0$
+
+C:\Users\Windows 10>netsh wlan show profile name="123456789" key=clear | find "Key Content"
+    Key Content            : 123456789
+
+C:\Users\Windows 10>netsh wlan show profile name="Computer Zone" key=clear | find "Key Content"
+    Key Content            : aloksri88
+
+C:\Users\Windows 10>netsh wlan show profile name="OPPO K1" key=clear | find "Key Content"
+    Key Content            : 12345678
+
+C:\Users\Windows 10>netsh wlan show profile name="realme 3" key=clear | find "Key Content"
+    Key Content            : 1234567890
+
+C:\Users\Windows 10>netsh wlan show profile name="GLOBAL IT" key=clear | find "Key Content"
+    Key Content            : 15082010
+
+C:\Users\Windows 10>
