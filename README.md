@@ -19,7 +19,7 @@
 
 
 ## 🚀 About Me
-Hi, I am Manmay Chakraborty who is currently studying in class 12....I am very much excited in coding...
+Hi, I am Manmay Chakraborty who is currently studying in class 12....I am very much excited in coding...And wanna continue my further studies of CS in abroad 🙂 🙃 😊 😀...
 
 
 
