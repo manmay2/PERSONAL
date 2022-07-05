@@ -3,7 +3,7 @@
 
     
 # PERSONAL ANALYZING
- -  THIS IS A TEMPORARY PERSONAL REPOSITORY OF MINE WHICH CONTAINS THE DATES,SCHEDULES OF EXAMS/TEST OR SYLLABUS OF JEE MAINS AND ADVANCE AND MANY MORE..
+ -  THIS IS A TEMPORARY PERSONAL REPOSITORY OF MINE WHICH CONTAINS THE DATES,SCHEDULES AND CONTAIN MANY MORE INFORMATION ABOUT FOREIGN UNIVERSITIES....etc..
 # LICENSE
 
 
@@ -19,7 +19,7 @@
 
 
 ## 🚀 About Me
-Hi, I am Manmay Chakraborty who is currently studying in class 12....I am very much excited in coding...
+Hi, I am Manmay Chakraborty who is currently studying in class 12....I am very much excited in coding...And wanna continue my further studies of CS in abroad 🙂 🙃 😊 😀...
 
 
 
@@ -30,4 +30,4 @@ If you have any feedback, feel free to reach out at manmaycoder@gmail.com
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS,C,C++,PYTHON and JAVA.
+Javascript, HTML, CSS,C,C++,PYTHON,JAVA and SQL
